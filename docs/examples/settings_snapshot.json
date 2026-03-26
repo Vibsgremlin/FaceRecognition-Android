@@ -1,0 +1,6 @@
+{
+  "camera_lens": "front",
+  "liveness_threshold": 0.7,
+  "identify_threshold": 0.8,
+  "liveness_level": 0
+}
