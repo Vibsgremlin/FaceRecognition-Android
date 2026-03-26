@@ -76,3 +76,8 @@ flowchart LR
   - this is a forked SDK demo, so much of the core biometric logic depends on external closed-source components rather than code in this repo
   - the activation key is hard-coded in [`MainActivity.kt`](C:\Users\91965\cars24\github-readme-batch\FaceRecognition-Android\app\src\main\java\com\kbyai\facerecognition\MainActivity.kt), which is risky for a public repository
   - the old README was mostly vendor documentation rather than project-specific explanation for your GitHub profile
+
+## Supporting Docs
+- [Architecture diagram](docs/architecture.png)
+- [Evaluation logs and outputs](docs/evaluation.md)
+- [Sample inputs and outputs](docs/sample_io.md)
